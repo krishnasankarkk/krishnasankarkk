@@ -1,4 +1,4 @@
-### Hi there 👋 Its me, Krishnasankar 🤓
+### Hi there 👋 Its me, Krishnasankar.
 
 - 🐍 A passionate python developer.
 - 🧩 Love to solve complex problems.
